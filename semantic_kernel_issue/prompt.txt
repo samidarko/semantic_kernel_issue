@@ -1,0 +1,117 @@
+LOREM IPSUM
+-----------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+DATABASES
+---------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+1) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "question": "<lorem ipsum>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "question": "<lorem ipsum>", "lorem": [<lorem ipsum>]}
+
+2) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>"}
+
+3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>", "lorem": "<lorem ipsum>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>", "title": "<lorem ipsum>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "question": "<lorem ipsum>"}
+
+4) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>"}
+
+5) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>", "year": "<lorem>", "period", "<lorem, lorem, lorem, lorem or lorem>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>", "year": "<lorem>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>", "year": "<lorem>", "metric", "<lorem ipsum>"}
+
+6) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "lorem": "<lorem ipsum>"}
+
+7) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "relevance": "<lorem ipsum, lorem ipsum, lorem ipsum etc.>"}
+
+8) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "filter_states": [<lorem ipsum to include>]}
+
+9) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "category": "<lorem or lorem>", "query_string": "<lorem ipsum lorem ipsum>"}
+
+10) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "question": "<lorem ipsum>"}
+
+11) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "question": "<lorem ipsum>"}
+
+12) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "topic": "<lorem ipsum>"}
+
+13) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem"}
+
+STATE MUTATIONS
+---------------
+
+1) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"action": "<lorem or lorem>", "name": "<lorem ipsum, lorem ipsum or lorem ipsum>”}
+
+2) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"action": "lorem", "memory": "<lorem ipsum>”}
+
+3) Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"action": "lorem", "change": "<lorem ipsum>”}
+
+FILTERS
+-------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
+
+{"type": "lorem", "startdate": "<lorem/lorem/lorem>", "enddate": "<lorem/lorem/lorem>"}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "semantic-kernel-issue"
+version = "0.1.0"
+description = ""
+authors = ["Vincent Dupont <samidarko@gmail.com>"]
+readme = "README.md"
+packages = [{include = "semantic_kernel_issue"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+semantic-kernel = "^0.3.15.dev0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+cli = 'scripts:cli'
